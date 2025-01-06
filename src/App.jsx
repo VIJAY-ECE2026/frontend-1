@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
 import User from './Users';
 import CreateUser from './Createuser';
-import UpdateUser from './Updateuser';
+import UpdateUser from './updateuser';
 
 function App() {
   return (
